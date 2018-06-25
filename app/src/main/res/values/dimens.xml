@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--间隔线 1dp 高度-->
+    <dimen name="divider_height_1dp">1dp</dimen>
+    <!--间隔线 1px 高度-->
+    <dimen name="divider_height_1px">1px</dimen>
+</resources>
